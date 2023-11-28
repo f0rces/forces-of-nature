@@ -1,0 +1,14 @@
+/* CSS Document */
+
+.headers {
+	color: #49767d;
+}
+
+.input-box {
+	/* margin: 20px; */
+	display: inline-block;
+	border: 10px solid green;
+	border-radius: 10px;
+	background-color: green;
+	align-content: center;
+}
