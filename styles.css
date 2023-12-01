@@ -7,9 +7,14 @@
 .input-box {
 	/* margin: 20px; */
 	display: inline-block;
+	color: black;
 	border: 10px solid green;
 	border-radius: 10px;
 	background-color: green;
+}
+
+.align-links  {
+	margin-left: calc(100% - 67%);
 }
 
 body {
@@ -34,6 +39,7 @@ body {
 .header-div .headers {
 	display: inline-block;
 }
+
 
 .center{
   align-items: center;
